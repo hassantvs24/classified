@@ -1,0 +1,5 @@
+[15-Oct-2021 07:38:07 UTC] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 32768 bytes) in /home/gungetonnet/public_html/vendor/composer/autoload_static.php on line 2107
+[15-Oct-2021 07:38:09 UTC] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 32768 bytes) in /home/gungetonnet/public_html/vendor/composer/autoload_static.php on line 2107
+[15-Oct-2021 07:38:13 UTC] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 32768 bytes) in /home/gungetonnet/public_html/vendor/composer/autoload_static.php on line 2107
+[15-Oct-2021 07:38:58 UTC] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 32768 bytes) in /home/gungetonnet/public_html/vendor/composer/autoload_static.php on line 2107
+[15-Oct-2021 07:38:58 UTC] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 32768 bytes) in /home/gungetonnet/public_html/vendor/composer/autoload_static.php on line 2107
